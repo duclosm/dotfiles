@@ -1,0 +1,5 @@
+alias ll='ls -la'
+alias projects='cd /e/dev/projects'
+alias idea='cd /e/dev/projects/idea'
+alias git='LANG=en_US.UTF-8 git'
+alias t='tail -f'
